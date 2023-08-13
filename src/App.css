@@ -1,0 +1,29 @@
+ body{
+  background-color: rgb(54, 167, 167);
+ }
+ .header{
+  background-color: rgb(55, 145, 145);
+  text-align: center;
+  font-size: 10vh;
+ }
+ .file-label{
+  background-color: brown;
+ }
+ body .actionButton{
+    margin: 10px;
+ }
+ 
+ .inputDiv{
+    margin: 10% 30%;
+ }
+
+ .inputImage{
+    margin: 20px 100px;
+ }
+
+ #parent-modal-title{
+    display:contents ;
+ }
+ #closeModal{
+    margin-left: 50%;
+ }
